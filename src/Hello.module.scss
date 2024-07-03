@@ -1,0 +1,13 @@
+.title {
+    color: #f8fafc;
+    background: #020617;
+    text-align: center;
+    .firstLetter {
+        color: lightblue;
+        border: 2px solid lightblue;
+        display: inline-block;
+        width: 1.5em;
+        height: 1.5em;
+        border-radius: 10px;
+    }
+}
